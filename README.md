@@ -71,6 +71,6 @@ Infosys_Milestone-1/
 │
 └── data/
     └── clean_data.csv
-
+```
 ## Outcome
 By the end of Milestone 2, the project successfully implements three recommendation models: Content-Based Filtering, Collaborative Filtering, and Rating-Based Recommendation. These models together form the core components of a Hybrid AI Recommendation Engine for an e-commerce platform.
