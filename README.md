@@ -69,7 +69,7 @@ Infosys_Milestone-1/
 ├── requirements.txt
 │
 └── data/
-└── clean_data.csv
+    └── clean_data.csv
 
 
 ## Outcome
